@@ -1,0 +1,5 @@
+/vendor
+Dockerfile
+*.md
+*.example
+docker-compose.yml
