@@ -19,9 +19,13 @@ web/.htaccess
 .env
 .env.*
 !.env.example
+!.env.database.example
 
 # Composer
 /vendor
 
 # WP-CLI
 wp-cli.local.yml
+
+# database data
+dbdata
