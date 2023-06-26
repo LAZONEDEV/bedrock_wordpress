@@ -21,6 +21,8 @@ We provide docker compose for this than just run the command below
 docker compose up
 ```
 
+Once containers start go to `http://localhost:8000`
+
 ### Running without docker
 
 #### Requirement
